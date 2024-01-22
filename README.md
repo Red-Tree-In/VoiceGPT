@@ -15,7 +15,6 @@ This application allows users to have one-to-one voice conversations with GPT mo
 
 ## Demo
 
-[Include a link to your demo here]
 
 ## Features
 

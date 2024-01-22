@@ -2,6 +2,8 @@
 
 This application allows users to have one-to-one voice conversations with GPT models. It's built using Next.js and utilizes the Mozilla Media Recorder API for recording and voice capturing.
 
+![Alt text](image-1.png)
+
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
